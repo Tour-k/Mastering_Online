@@ -1,0 +1,3 @@
+## Mode de fonctionnement
+
+... à définir rapidement ... 
