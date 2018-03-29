@@ -7,6 +7,18 @@
 	<body>
     
 
+	<?php include 'Header.php';?>
+    <?php include 'Menu.php';?>
+<!--coprs de la page--> 
+
+
+
+
+
+
+
+    <?php include 'Footer.php';?>
+
     
     </body>
 </html>
